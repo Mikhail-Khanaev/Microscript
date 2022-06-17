@@ -498,7 +498,7 @@ body {
   gap: 1.25rem;
 }
 .intro__title {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 @media (min-width: 30em) {
   .intro__title {
@@ -725,7 +725,7 @@ body {
 }
 
 .description {
-  padding-bottom: 0;
+  padding-bottom: 0 !important;
 }
 .description__title {
   margin-bottom: 10px;
